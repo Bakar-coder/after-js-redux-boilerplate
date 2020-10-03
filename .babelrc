@@ -1,0 +1,4 @@
+{
+  "presets": ["razzle/babel"],
+  "plugins": ["after", "react-native-web"]
+}
